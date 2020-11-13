@@ -1,6 +1,6 @@
 # My-Little-Library
 ## Description
-### Deployed link: idk
+### Deployed link: https://fast-castle-45621.herokuapp.com/search
 Users can search for books from the google books API and save the books they are interested in for a later date. A React MERN application with a Mongo database.
 
 ## Table of Contents
@@ -13,9 +13,9 @@ Users can search for books from the google books API and save the books they are
 
 ## Visuals 
 
-![image](pending)
+![image](https://user-images.githubusercontent.com/69055538/99102508-00df8180-2593-11eb-88f5-08196dae1641.png)
 
-View of saved books
+View of searched books
 
 ## Technologies 
 
